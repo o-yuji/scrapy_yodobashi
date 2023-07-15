@@ -1,0 +1,22 @@
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1
+X-Content-Type-Options: nosniff
+Content-Security-Policy: upgrade-insecure-requests
+Content-Security-Policy-Report-Only: connect-src https:; report-uri https://www.yodobashi.com/ws/api/ap/csp/report
+Cache-Control: no-cache, no-store, post-check=0, pre-check=0
+Pragma: no-cache
+Expires: Thu, 01 Dec 1994 16:00:00 GMT
+Content-Type: text/html;charset=UTF-8
+Vary: Accept-Encoding,User-Agent
+X-Cnection: close
+X-Akamai-Transformed: 9 45958 0 pmb=mTOE,1mRUM,1
+Content-Encoding: gzip
+Date: Sat, 15 Jul 2023 16:08:59 GMT
+Set-Cookie: newses=0; Domain=.yodobashi.com; Expires=Thu, 02-Aug-2091 19:22:54 GMT; Path=/; Secure
+Set-Cookie: uq=a5c69078073dff661b5e3102235db38ad1fa89de; Expires=Thu, 02-Aug-2091 19:22:54 GMT; Path=/; Secure
+Set-Cookie: google_crmid=""; Domain=.yodobashi.com; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/; Secure
+Set-Cookie: JSESSIONID=D4B9E10D7C16D296A3D44FCE03DFAC13; Path=/; Secure; HttpOnly
+Server-Timing: cdn-cache; desc=MISS
+Server-Timing: edge; dur=42
+Server-Timing: origin; dur=12760
+Server-Timing: ak_p; desc="469288_390286038_904616885_1280252_7342_18_-_-";dur=1
